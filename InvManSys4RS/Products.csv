@@ -1,0 +1,18 @@
+ProductID;Name;Description;Category;Quantity;Price;SupplierID
+1;     Widget X      ; High-quality widget with advanced     ; Electronics;10;  19.99  ;4589
+2;    Gadget Pro     ; Versatile gadget with multiple        ; Electronics;5;  29.99  ;1187
+3;    SuperTech 2000 ; Cutting-edge technology for           ; Electronics;8;  9.99   ;7825
+4;     FlexiLite     ; Lightweight and flexible solution     ;   Fashion  ;12;  14.99  ;8977
+5;   Stellar Speaker ; Premium wireless speaker with         ; Electronics;3;  24.99  ;8889
+6;    AllRounder     ; All-in-one tool for various tasks     ;    Tools   ;7;  39.99  ;8799
+7;    CosmoWatch     ; Stylish and feature-rich smartwatch   ; Electronics;15;  149.99 ;5466
+8;   ActiveFit Pro   ; Advanced fitness tracker with         ; Electronics;20;  79.99  ;2779
+9;   AlphaPro Drone  ; Professional-grade drone for aerial   ; Electronics;2;  199.99 ;7766
+10;    SwiftShade     ; Portable and easy-to-use sunshade     ;  Outdoor   ;10;  49.99  ;7825
+11;    AquaSense      ; Water-resistant headphones with       ; Electronics;8;  29.99  ;8977
+12;   Harmony Pillow  ; Ergonomic pillow designed for         ;   Home     ;5;  39.99  ;8799
+13;   TurboCharger    ; High-speed USB charger with           ; Electronics;15;  19.99  ;5466
+14;   AirGlide 300    ; Smooth and efficient vacuum cleaner   ; Appliances ;4;  149.99 ;4589
+15;     HandyMate     ; Multi-purpose toolset for everyday    ;    Tools   ;10;  24.99  ;1187
+16;    UrbanBike      ; Stylish and lightweight bicycle for   ;  Outdoor   ;3;  199.99 ;7825
+17;  IntelliSense TV  ; Smart TV with advanced features and   ; Electronics;5;  699.99 ;8977
